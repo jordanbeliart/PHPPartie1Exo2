@@ -1,7 +1,7 @@
 <?php
 $lastname = 'DeMonMiraille';
 $firstname = 'Jean-Charles';
-$age = '39';
+$age = 39;
 ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
